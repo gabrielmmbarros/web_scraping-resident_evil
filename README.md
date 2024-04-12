@@ -1,2 +1,2 @@
 # Data Collect
-Collecting data from the brazilian website residentevildatabase.com
+Collecting data from the brazilian website www.residentevildatabase.com
